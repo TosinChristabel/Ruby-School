@@ -1,2 +1,2 @@
-# Ruby-School
-A Montessori standard school,patterned to train children with learn-as -you-play instructional materials.
+Web developer, UX designer.
+I code HTML, CSS, JavaScript
